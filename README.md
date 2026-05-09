@@ -187,12 +187,3 @@ npm run dev
 - ✅ Multi-image uploads
 
 ---
-
-## 📧 Contact
-
-> Have questions or suggestions?
-
-- ✉️ Email: `abhishekpratap21nov@gmail.com`
-- 🌐 Portfolio: https://react-portfolio-psi-virid.vercel.app/
-
----
